@@ -1,0 +1,9 @@
+!recfun/*
+recfun/project
+recfun/target
+recfun/.idea
+!funsets/*
+funsets/project
+funsets/target
+funsets/.idea
+week2/*
